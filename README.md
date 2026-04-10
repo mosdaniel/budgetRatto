@@ -27,7 +27,7 @@
 
 ## 🖥 Vista previa
 
-![Interfaz principal](preview.png)
+![Interfaz principal](paginaPrincipal.png)
 
 ---
 
