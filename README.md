@@ -27,9 +27,7 @@
 
 ## 🖥 Vista previa
 
-> Dark mode · Sidebar de navegación · Cards de métricas · Donut chart · Tabla de gastos
-
-![Interfaz principal](Interfaz.png)
+![Interfaz principal](preview.png)
 
 ---
 
