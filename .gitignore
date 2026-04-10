@@ -1,0 +1,22 @@
+node_modules/
+dist/
+dist-electron/
+
+# Base de datos local
+*.db
+
+# Variables de entorno
+.env
+.env.local
+
+# Artifacts / scripts temporales
+BudgetManager-con-logo.zip
+BudgetManager-Portable.zip
+generate-icon.js
+convert.ps1
+
+# Caché de Vite y editores
+.vite/
+.idea/
+.vscode/
+*.log
